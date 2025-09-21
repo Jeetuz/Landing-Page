@@ -301,6 +301,34 @@ ul li em {
   margin-left: 0.5rem;
 }
 
+/* Experience section text-only readability improvements */
+.experience-item {
+  margin-bottom: 1.8rem;
+}
+
+.experience-role {
+  font-weight: 700;
+  font-size: 1.1rem;
+  color: #e5e5e5;
+  margin-bottom: 0.4rem;
+  line-height: 1.3;
+}
+
+.experience-company {
+  font-style: italic;
+  color: #a1a1a1;
+  font-weight: 400;
+  margin-bottom: 0.3rem;
+  font-size: 0.95rem;
+}
+
+.experience-dates {
+  font-size: 0.9rem;
+  color: #767676;
+  font-weight: 300;
+  margin-bottom: 0.4rem;
+}
+
 /* Small screens: up to but not including 768px */
 @media (max-width: 767.98px) {
   .sidebar, .quarto-sidebar {
