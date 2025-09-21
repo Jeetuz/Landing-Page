@@ -1,0 +1,160 @@
+---
+title: "Jeet Parab"
+image: profile.jpg
+about:
+  template: trestles
+  image-width: 13em
+  image-shape: round
+  links:
+    - icon: github
+      text: GitHub
+      href: https://github.com/Jeetuz
+    - icon: book
+      text: SentinelKilnDB
+      href: https://sustainability-lab.github.io/sentinelkilndb/
+    - icon: file-text
+      text: Resume
+      href: Jeet_Resume.pdf
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/jeet-parab-54a253255/  
+    - icon: envelope
+      text: Email
+      href: mailto:jeetparab2512@gmail.com
+---
+
+Hi, I’m **Jeet Parab**, currently working as **Technical Lead: Cloud and Data Engineer at HCLTech**, with a passion for **Machine Learning, LLMs, NLP, and Geospatial Analytics**.  
+
+I thrive at the intersection of **research and engineering**, building scalable AI systems that solve real-world problems.  
+
+During my research internship at the **Sustainability Lab, IIT Gandhinagar**, I co-authored **SentinelKilnDB** (accepted at **NeurIPS 2025, Data & Benchmarks Track**), contributing to:  
+- **Satellite imagery object detection**  
+- **Dataset curation & benchmarking**  
+- **Active learning workflows integration**
+
+At **HCLTech**, I focus on deploying **enterprise-grade LLMs**, optimizing them with **RAG** and **model distillation**, and integrating them with **cloud platforms** for production-ready AI solutions.  
+
+---
+
+## Education
+
+- **B.Tech – Computer Science and Engineering**  
+  *Indian Institute of Information Technology, Surat* Surat, Gujarat | 2021 – 2025  
+  CGPA: **9.03**
+
+- **Higher Secondary Certificate (MSBSHSE)**  
+  *Pace Junior Science College, Thane* Thane, Maharashtra | 2019 – 2021  
+  Score: **95.8%**
+
+- **Secondary School Certificate (CBSE)**  
+  *D.A.V. Public School, Thane* Thane, Maharashtra | 2007 – 2019  
+  Score: **96.6%**
+
+---
+
+## Experience
+
+<div class="experience-item">
+  <div class="experience-role">Technical Lead – Cloud & Data Engineer</div>
+  <div class="experience-company">HCLTech, Chennai, Tamil Nadu</div>
+  <div class="experience-dates">Jul 2025 – Present</div>
+  <ul>
+    <li>Deploying and fine-tuning <strong>LLMs in enterprise workflows</strong>, advancing AI capabilities with <strong>RAG</strong> and <strong>model distillation</strong>.</li>
+    <li>Integrating AI solutions with <strong>cloud platforms</strong> to automate and optimize business processes.</li>
+    <li>Delivering <strong>scalable, production-ready ML systems</strong> with cross-functional collaboration.</li>
+  </ul>
+</div>
+
+<div class="experience-item">
+  <div class="experience-role">Research Intern</div>
+  <div class="experience-company">Sustainability Lab, IIT Gandhinagar</div>
+  <div class="experience-dates">Jan 2025 – Jul 2025</div>
+  <ul>
+    <li>Co-author of <strong>SentinelKilnDB (NeurIPS 2025)</strong> under Prof. Nipun Batra & Rishabh Mondal.</li>
+    <li>Curated a <strong>brick kiln detection dataset</strong> across South Asia using Sentinel-2 imagery.</li>
+    <li>Benchmarked <strong>28 detection models</strong> (e.g., DETR, Galileo, TerraMind).</li>
+    <li>Improved performance with <strong>self-supervised learning</strong> (SimCLR, Jigsaw) and <strong>active learning</strong>.</li>
+    <li>Expanded validated detections to <strong>65,616 kilns</strong> across South Asia covering India, Nepal, Bangladesh, Afghanistan, and Pakistan.</li>
+  </ul>
+</div>
+
+
+<div class="experience-item">
+  <div class="experience-role">Project Intern</div>
+  <div class="experience-company">Prodware Solutions, Mumbai, Maharashtra</div>
+  <div class="experience-dates">Jun 2024 – Jul 2024</div>
+  <ul>
+    <li>Built a <strong>multi-functional chatbot</strong> using <strong>Google Dialogflow & Gemini</strong>, reducing workflow time by ~60%.</li>
+    <li>Designed and implemented <strong>NLP pipelines</strong> for enterprise automation.</li>
+  </ul>
+</div>
+
+---
+
+## Projects
+
+- **LLM-Based Energy Monitoring System** – Analytics pipeline to answer natural language energy queries with **90%+ accuracy**. Benchmarked five LLMs & optimized prompts.  
+  *[Tech: PyTorch, Hugging Face, Streamlit]*  
+
+- **Signature Verification System** – Hybrid ML + OpenCV system achieving **precision/recall of 0.92** for user signature verification.  
+  *[Tech: Scikit-learn, OpenCV]*  
+
+- **Crime Monitoring System** – REST-based application with API integration for managing and tracking crime reports.  
+  *[Tech: React, Node.js, AXIOS]*  
+
+- **Sentiment-Gender-Bias Analysis** – Empirical study on **gender bias in LLMs**, analyzing sentiment differences across gendered statements.  
+  *[Tech: Python, NLTK, Transformers]*  
+
+---
+::: {.skills}
+<div>
+  <div class="skills-category">Programming Languages</div>
+  <ul>
+    <li>Python</li>
+    <li>C++</li>
+    <li>C</li>
+    <li>SQL</li>
+    <li>PHP</li>
+    <li>JavaScript</li>
+    <li>HTML / CSS</li>
+  </ul>
+</div>
+
+<div>
+  <div class="skills-category">Machine Learning & AI</div>
+  <ul>
+    <li>PyTorch, TensorFlow, Keras</li>
+    <li>Scikit-learn, NLTK</li>
+    <li>Hugging Face Transformers</li>
+    <li>LLM Fine-tuning & RAG</li>
+    <li>Self-Supervised Learning</li>
+  </ul>
+</div>
+
+<div>
+  <div class="skills-category">Tools & Platforms</div>
+  <ul>
+    <li>Git, Docker, Linux</li>
+    <li>Power BI, Figma</li>
+    <li>Streamlit, Colab</li>
+    <li>Cloud Platforms (AWS, GCP, Azure)</li>
+  </ul>
+</div>
+
+<div>
+  <div class="skills-category">Domains & Expertise</div>
+  <ul>
+    <li>LLMs & NLP</li>
+    <li>Geospatial Analytics</li>
+    <li>System Design & Architecture</li>
+    <li>Web Development</li>
+    <li>Dataset Curation & Benchmarking</li>
+  </ul>
+</div>
+:::
+
+
+
+
+
+

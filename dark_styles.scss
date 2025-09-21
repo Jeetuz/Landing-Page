@@ -1,0 +1,389 @@
+/*-- scss:defaults --*/
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500&display=swap');
+
+$font-family: "Roboto", sans-serif;
+$font-family-serif: "Roboto", sans-serif;
+
+/*-- scss:rules --*/
+
+// Body with dark background and light text
+body {
+    line-height: 1.6;
+    color: #e5e5e5;
+    background-color: #121212;
+    font-family: $font-family;
+}
+
+// Keyboard and kbd styling
+kbd,
+.kbd {
+    background-color: #1e1e1e !important;
+    color: #e5e5e5 !important;
+}
+
+// Navbar dark mode
+.navbar {
+    padding-top: 0.75rem;
+    padding-bottom: 0.75rem;
+    background-color: #1f1f1f;
+    border-bottom: 1px solid #2a2a2a;
+    box-shadow: none;
+
+    .navbar-brand {
+        font-weight: 500;
+        color: #e5e5e5 !important;
+    }
+
+    .nav-link {
+        color: #b5b5b5 !important;
+        font-weight: 400;
+        transition: color 0.3s ease;
+
+        &:hover {
+            color: #ffffff !important;
+            text-decoration: underline;
+        }
+
+        &.active {
+            color: #ffffff !important;
+            font-weight: 500;
+            border-bottom: 2px solid #ffffff;
+            padding-bottom: 4px;
+        }
+    }
+}
+
+// Profile section
+.quarto-about-trestles {
+    .about-entity {
+        margin-bottom: 2rem;
+
+        .about-image img {
+            border-radius: 8px;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.6);
+            transition: box-shadow 0.3s ease;
+
+            &:hover {
+                box-shadow: 0 8px 16px rgba(0,0,0,0.7);
+            }
+        }
+    }
+
+    .about-contents {
+        font-size: 1rem;
+        line-height: 1.6;
+        font-weight: 300;
+        color: #e5e5e5;
+
+        p {
+            margin-bottom: 1.5rem;
+        }
+
+        strong {
+            font-weight: 500;
+            color: #ffffff;
+        }
+    }
+
+    .about-links {
+        margin-top: 2rem;
+        display: flex !important;
+        flex-wrap: wrap !important;
+        gap: 0.75rem;
+        align-items: center;
+        flex-direction: row !important;
+
+        .about-link {
+            display: inline-flex;
+            align-items: center;
+            padding: 0.6rem 1.2rem;
+            background-color: #1f1f1f;
+            color: #ccc;
+            text-decoration: none;
+            border-radius: 6px;
+            border: 1px solid #333;
+            transition: all 0.2s ease;
+            font-weight: 400;
+            font-size: 0.9rem;
+
+            i {
+                margin-right: 0.5rem;
+                font-size: 1rem;
+            }
+
+            &:hover {
+                background-color: #2a2a2a;
+                color: #ffffff;
+                text-decoration: none;
+                box-shadow: 0 2px 8px rgba(255,255,255,0.1);
+                transform: translateY(-1px);
+            }
+
+            &[href*="twitter"]:hover {
+                background-color: #0d1117;
+                border-color: #1da1f2;
+                color: #1da1f2;
+            }
+
+            &[href*="github"]:hover {
+                background-color: #0d1117;
+                border-color: #ffffff;
+                color: #ffffff;
+            }
+
+            &[href*="linkedin"]:hover {
+                background-color: #0d1117;
+                border-color: #0a66c2;
+                color: #0a66c2;
+            }
+
+            &[href*="mailto"]:hover {
+                background-color: #1a0d1a;
+                border-color: #e879f9;
+                color: #e879f9;
+            }
+
+            &[href*="scholar"]:hover {
+                background-color: #0d1117;
+                border-color: #0284c7;
+                color: #0284c7;
+            }
+        }
+    }
+}
+
+// Teaching list
+.teaching-list {
+    ul {
+        list-style: none;
+        padding-left: 0;
+
+        li {
+            padding: 1rem;
+            margin: 0.5rem 0;
+            background-color: #1f1f1f;
+            border: 1px solid #2a2a2a;
+            border-radius: 8px;
+            transition: all 0.2s ease;
+
+            &:hover {
+                box-shadow: 0 4px 12px rgba(255,255,255,0.1);
+                transform: translateY(-2px);
+            }
+
+            &:has(.youtube-course) {
+                background-color: #1a0d1a;
+                border-color: #e879f9;
+
+                &:hover {
+                    background-color: #2d0d2d;
+                    box-shadow: 0 4px 12px rgba(232,121,249,0.15);
+                }
+            }
+
+            a {
+                text-decoration: none;
+                color: #e5e5e5;
+                font-weight: 400;
+
+                &:hover {
+                    color: #ffffff;
+                }
+            }
+        }
+    }
+}
+
+// Call-to-action area
+.lab-cta {
+    background-color: #1f1f1f;
+    border: 1px solid #2a2a2a;
+    border-radius: 8px;
+    padding: 2rem;
+    margin: 2rem 0;
+    text-align: center;
+
+    h4 {
+        color: #ffffff;
+        margin-bottom: 1rem;
+        font-weight: 500;
+    }
+
+    p {
+        color: #ccc;
+        margin-bottom: 1.5rem;
+    }
+
+    a {
+        display: inline-block;
+        background-color: #ffffff;
+        color: #121212;
+        padding: 0.75rem 1.5rem;
+        text-decoration: none;
+        border-radius: 4px;
+        margin: 0.25rem;
+        font-weight: 500;
+        transition: all 0.2s ease;
+
+        &:hover {
+            background-color: #e5e5e5;
+            color: #121212;
+            transform: translateY(-1px);
+            box-shadow: 0 4px 8px rgba(0,0,0,0.3);
+        }
+    }
+}
+
+// Section headings
+h2 {
+    font-size: 1.5rem;
+    font-weight: 700;
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+    border-bottom: 2px solid #333;
+    padding-bottom: 0.3rem;
+    color: #ffffff;
+}
+
+// Lists
+ul {
+    list-style-type: disc;
+    margin-left: 1.5rem;
+    line-height: 1.6;
+    color: #e5e5e5;
+}
+
+ul li {
+    margin-bottom: 1rem;
+}
+
+ul li strong {
+    font-weight: 600;
+    color: #ffffff;
+}
+
+ul li em {
+    display: block;
+    margin-top: 0.3rem;
+    font-size: 0.9rem;
+    color: #ccc;
+    font-style: normal;
+}
+
+// Skills section
+.skills {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+    gap: 1rem 2rem;
+    margin-top: 1rem;
+}
+
+.skills > div {
+    background: #1f1f1f;
+    padding: 0.8rem 1rem;
+    border-radius: 6px;
+    border: 1px solid #2a2a2a;
+}
+
+.skills-category {
+    font-weight: 600;
+    margin-bottom: 0.5rem;
+    color: #ffffff;
+    font-size: 0.95rem;
+}
+/* Section heading styling */
+h2 {
+  font-size: 1.4rem;
+  font-weight: 700;
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+  border-bottom: 2px solid #4b5563; /* darker divider for dark mode */
+  padding-bottom: 0.3rem;
+  color: #e5e5e5;
+}
+
+/* Bulleted lists */
+ul {
+  list-style-type: disc;
+  margin-left: 1.2rem;
+  line-height: 1.6;
+  color: #e5e5e5;
+}
+
+ul li {
+  margin-bottom: 0.6rem;
+}
+
+ul li strong {
+  font-weight: 600;
+  color: #ffffff;
+}
+
+ul li em {
+  display: block;
+  margin-top: 0.2rem;
+  font-size: 0.9rem;
+  color: #a1a1a1;
+  font-style: normal;
+}
+
+/* Experience styling */
+.experience-item {
+  margin-bottom: 1.5rem;
+}
+.experience-role {
+  font-weight: 600;
+  font-size: 1.05rem;
+  color: #ffffff;
+}
+.experience-company {
+  font-style: italic;
+  color: #c1c1c1;
+  margin-bottom: 0.2rem;
+}
+.experience-dates {
+  font-size: 0.9rem;
+  color: #9ca3af;
+  margin-bottom: 0.4rem;
+}
+
+/* Skills styling */
+.skills {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 1rem 2rem;
+  margin-top: 1rem;
+}
+
+.skills > div {
+  background: #1f1f1f;       /* dark background for contrast */
+  padding: 0.8rem 1rem;
+  border-radius: 6px;
+  border: 1px solid #333;
+}
+
+.skills-category {
+  font-weight: 600;
+  margin-bottom: 0.4rem;
+  color: #ffffff;
+  font-size: 0.95rem;
+}
+
+.skills ul {
+  margin: 0;
+  padding-left: 1.2rem;
+}
+
+.skills li {
+  margin-bottom: 0.3rem;
+  line-height: 1.4;
+}
+
+
+.navbar .quarto-theme-toggle {
+  position: relative;  /* enable relative positioning */
+  top: -3em;           /* move up by 4px; adjust as needed */
+  margin-left: 0.5rem; /* space from previous navbar item */
+}
+
+

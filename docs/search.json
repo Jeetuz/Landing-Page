@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Jeet Parab",
+    "section": "",
+    "text": "Hi, I’m Jeet Parab, currently working as Technical Lead: Cloud and Data Engineer at HCLTech, with a passion for Machine Learning, LLMs, NLP, and Geospatial Analytics.\nI thrive at the intersection of research and engineering, building scalable AI systems that solve real-world problems.\nDuring my research internship at the Sustainability Lab, IIT Gandhinagar, I co-authored SentinelKilnDB (accepted at NeurIPS 2025, Data & Benchmarks Track), contributing to:\n- Satellite imagery object detection\n- Dataset curation & benchmarking\n- Active learning workflows integration\nAt HCLTech, I focus on deploying enterprise-grade LLMs, optimizing them with RAG and model distillation, and integrating them with cloud platforms for production-ready AI solutions."
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Jeet Parab",
+    "section": "Education",
+    "text": "Education\n\nB.Tech – Computer Science and Engineering\nIndian Institute of Information Technology, Surat Surat, Gujarat | 2021 – 2025\nCGPA: 9.03\nHigher Secondary Certificate (MSBSHSE)\nPace Junior Science College, Thane Thane, Maharashtra | 2019 – 2021\nScore: 95.8%\nSecondary School Certificate (CBSE)\nD.A.V. Public School, Thane Thane, Maharashtra | 2007 – 2019\nScore: 96.6%"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Jeet Parab",
+    "section": "Experience",
+    "text": "Experience\n\n\nTechnical Lead – Cloud & Data Engineer\n\n\nHCLTech, Chennai, Tamil Nadu\n\n\nJul 2025 – Present\n\n\n\nDeploying and fine-tuning LLMs in enterprise workflows, advancing AI capabilities with RAG and model distillation.\n\n\nIntegrating AI solutions with cloud platforms to automate and optimize business processes.\n\n\nDelivering scalable, production-ready ML systems with cross-functional collaboration.\n\n\n\n\n\nResearch Intern\n\n\nSustainability Lab, IIT Gandhinagar\n\n\nJan 2025 – Jul 2025\n\n\n\nCo-author of SentinelKilnDB (NeurIPS 2025) under Prof. Nipun Batra & Rishabh Mondal.\n\n\nCurated a brick kiln detection dataset across South Asia using Sentinel-2 imagery.\n\n\nBenchmarked 28 detection models (e.g., DETR, Galileo, TerraMind).\n\n\nImproved performance with self-supervised learning (SimCLR, Jigsaw) and active learning.\n\n\nExpanded validated detections to 65,616 kilns across South Asia covering India, Nepal, Bangladesh, Afghanistan, and Pakistan.\n\n\n\n\n\nProject Intern\n\n\nProdware Solutions, Mumbai, Maharashtra\n\n\nJun 2024 – Jul 2024\n\n\n\nBuilt a multi-functional chatbot using Google Dialogflow & Gemini, reducing workflow time by ~60%.\n\n\nDesigned and implemented NLP pipelines for enterprise automation."
+  },
+  {
+    "objectID": "index.html#projects",
+    "href": "index.html#projects",
+    "title": "Jeet Parab",
+    "section": "Projects",
+    "text": "Projects\n\nLLM-Based Energy Monitoring System – Analytics pipeline to answer natural language energy queries with 90%+ accuracy. Benchmarked five LLMs & optimized prompts.\n[Tech: PyTorch, Hugging Face, Streamlit]\nSignature Verification System – Hybrid ML + OpenCV system achieving precision/recall of 0.92 for user signature verification.\n[Tech: Scikit-learn, OpenCV]\nCrime Monitoring System – REST-based application with API integration for managing and tracking crime reports.\n[Tech: React, Node.js, AXIOS]\nSentiment-Gender-Bias Analysis – Empirical study on gender bias in LLMs, analyzing sentiment differences across gendered statements.\n[Tech: Python, NLTK, Transformers]\n\n\n\n\n\nProgramming Languages\n\n\n\nPython\n\n\nC++\n\n\nC\n\n\nSQL\n\n\nPHP\n\n\nJavaScript\n\n\nHTML / CSS\n\n\n\n\n\nMachine Learning & AI\n\n\n\nPyTorch, TensorFlow, Keras\n\n\nScikit-learn, NLTK\n\n\nHugging Face Transformers\n\n\nLLM Fine-tuning & RAG\n\n\nSelf-Supervised Learning\n\n\n\n\n\nTools & Platforms\n\n\n\nGit, Docker, Linux\n\n\nPower BI, Figma\n\n\nStreamlit, Colab\n\n\nCloud Platforms (AWS, GCP, Azure)\n\n\n\n\n\nDomains & Expertise\n\n\n\nLLMs & NLP\n\n\nGeospatial Analytics\n\n\nSystem Design & Architecture\n\n\nWeb Development\n\n\nDataset Curation & Benchmarking"
+  }
+]

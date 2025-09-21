@@ -1,0 +1,35 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Jeet Vishwas Parab"
+  description: "Personal Website & Portfolio"
+  navbar:
+    right:
+      - text: Home
+        href: index.qmd
+      - text: Blogs
+        href: blogs
+      - text: CV
+        href: Jeet_Resume.pdf
+      - icon: github
+        href: https://github.com/jeetuz
+  page-footer:
+    left: "© 2025 Jeet Vishwas Parab"
+    right: "Made with [Quarto](https://quarto.org/)"
+
+format:
+  html:
+    theme:
+      light: [litera,styles.scss]
+      dark: [darkly,dark_styles.scss]
+    theme-toggle: true          # <-- HERE, not in navbar
+    toc: true
+    highlight-style: a11y-dark
+    mainfont: "Roboto"
+    code-copy: true
+    code-overflow: wrap
+
+execute:
+  freeze: auto
