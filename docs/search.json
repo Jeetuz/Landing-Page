@@ -1,5 +1,54 @@
 [
   {
+    "objectID": "readme.html",
+    "href": "readme.html",
+    "title": "Jeet Vishwas Parab – Personal Portfolio",
+    "section": "",
+    "text": "Welcome to my personal website & portfolio! This site showcases my projects, research work, and professional experience in Machine Learning, LLMs, NLP, and Geospatial Analytics.\n\n\nYou can explore my portfolio online here: My Website\n\n\n\nI am currently a Technical Lead: Cloud & Data Engineer at HCLTech, with a passion for building scalable AI systems that solve real-world problems. My work intersects research and engineering, and I enjoy deploying enterprise-grade LLMs, optimizing them using RAG and model distillation, and integrating them with cloud platforms.\nDuring my research internship at Sustainability Lab, IIT Gandhinagar, I co-authored SentinelKilnDB, accepted at NeurIPS 2025 – Data & Benchmarks Track, contributing to:\n\nSatellite imagery object detection\n\nDataset curation & benchmarking\n\nActive learning workflow integration\n\n\n\n\n\nLLM-Based Energy Monitoring System – NLP analytics pipeline answering natural language energy queries.\n\nSignature Verification System – Hybrid ML + OpenCV system achieving 0.92 precision/recall.\n\nCrime Monitoring System – REST-based application for managing and tracking crime reports.\n\nSentiment-Gender-Bias Analysis – Empirical study on gender bias in LLMs.\n\n(For full project details, visit my website.)\n\n\n\n\nProgramming: Python, C++, C, SQL, PHP, JavaScript, HTML/CSS\n\nML/AI: PyTorch, TensorFlow, Scikit-learn, Hugging Face, Keras, NLTK\n\nTools & Platforms: Git, Docker, Linux, Power BI, Figma, Streamlit, Colab\n\nDomains: LLMs & NLP, Geospatial Analytics, System Design, Web Development\n\n\n\n\nYou can download my resume here: Jeet_Resume.pdf\n\n\n\n\nGitHub: github.com/Jeetuz"
+  },
+  {
+    "objectID": "readme.html#website",
+    "href": "readme.html#website",
+    "title": "Jeet Vishwas Parab – Personal Portfolio",
+    "section": "",
+    "text": "You can explore my portfolio online here: My Website"
+  },
+  {
+    "objectID": "readme.html#about-me",
+    "href": "readme.html#about-me",
+    "title": "Jeet Vishwas Parab – Personal Portfolio",
+    "section": "",
+    "text": "I am currently a Technical Lead: Cloud & Data Engineer at HCLTech, with a passion for building scalable AI systems that solve real-world problems. My work intersects research and engineering, and I enjoy deploying enterprise-grade LLMs, optimizing them using RAG and model distillation, and integrating them with cloud platforms.\nDuring my research internship at Sustainability Lab, IIT Gandhinagar, I co-authored SentinelKilnDB, accepted at NeurIPS 2025 – Data & Benchmarks Track, contributing to:\n\nSatellite imagery object detection\n\nDataset curation & benchmarking\n\nActive learning workflow integration"
+  },
+  {
+    "objectID": "readme.html#projects",
+    "href": "readme.html#projects",
+    "title": "Jeet Vishwas Parab – Personal Portfolio",
+    "section": "",
+    "text": "LLM-Based Energy Monitoring System – NLP analytics pipeline answering natural language energy queries.\n\nSignature Verification System – Hybrid ML + OpenCV system achieving 0.92 precision/recall.\n\nCrime Monitoring System – REST-based application for managing and tracking crime reports.\n\nSentiment-Gender-Bias Analysis – Empirical study on gender bias in LLMs.\n\n(For full project details, visit my website.)"
+  },
+  {
+    "objectID": "readme.html#skills",
+    "href": "readme.html#skills",
+    "title": "Jeet Vishwas Parab – Personal Portfolio",
+    "section": "",
+    "text": "Programming: Python, C++, C, SQL, PHP, JavaScript, HTML/CSS\n\nML/AI: PyTorch, TensorFlow, Scikit-learn, Hugging Face, Keras, NLTK\n\nTools & Platforms: Git, Docker, Linux, Power BI, Figma, Streamlit, Colab\n\nDomains: LLMs & NLP, Geospatial Analytics, System Design, Web Development"
+  },
+  {
+    "objectID": "readme.html#resume",
+    "href": "readme.html#resume",
+    "title": "Jeet Vishwas Parab – Personal Portfolio",
+    "section": "",
+    "text": "You can download my resume here: Jeet_Resume.pdf"
+  },
+  {
+    "objectID": "readme.html#contact",
+    "href": "readme.html#contact",
+    "title": "Jeet Vishwas Parab – Personal Portfolio",
+    "section": "",
+    "text": "GitHub: github.com/Jeetuz"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Jeet Parab",
