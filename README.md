@@ -6,7 +6,6 @@ Welcome to my personal website & portfolio! This site showcases my projects, res
 
 You can explore my portfolio online here: **[My Website](https://jeetparab2512.github.io/Landing-Page/)**  
 
-*(Replace the link with your actual deployed site.)*
 
 ## 💼 About Me
 
@@ -41,4 +40,3 @@ You can download my resume here: **[Jeet_Resume.pdf](Jeet_Resume.pdf)**
 ## 📫 Contact
 
 - **GitHub:** [github.com/jeetparab2512](https://github.com/jeetparab2512)  
-- **Email:** jeet@example.com *(replace with actual email)*
