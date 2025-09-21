@@ -14,7 +14,6 @@ website:
       - text: CV
         href: Jeet_Resume.pdf
       - icon: github
-        text: GitHub
         href: https://github.com/jeetuz
   page-footer:
     left: "© 2025 Jeet Vishwas Parab"
