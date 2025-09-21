@@ -8,7 +8,7 @@ about:
   links:
     - icon: github
       text: GitHub
-      href: https://github.com/Jeetuz
+      href: https://github.com/jeetparab2512
     - icon: book
       text: SentinelKilnDB
       href: https://sustainability-lab.github.io/sentinelkilndb/
