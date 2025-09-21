@@ -106,6 +106,7 @@ At **HCLTech**, I focus on deploying **enterprise-grade LLMs**, optimizing them 
   *[Tech: Python, NLTK, Transformers]*  
 
 ---
+## Skills
 ::: {.skills}
 <div>
   <div class="skills-category">Programming Languages</div>

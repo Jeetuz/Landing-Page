@@ -25,6 +25,13 @@
     "href": "index.html#projects",
     "title": "Jeet Parab",
     "section": "Projects",
-    "text": "Projects\n\nLLM-Based Energy Monitoring System – Analytics pipeline to answer natural language energy queries with 90%+ accuracy. Benchmarked five LLMs & optimized prompts.\n[Tech: PyTorch, Hugging Face, Streamlit]\nSignature Verification System – Hybrid ML + OpenCV system achieving precision/recall of 0.92 for user signature verification.\n[Tech: Scikit-learn, OpenCV]\nCrime Monitoring System – REST-based application with API integration for managing and tracking crime reports.\n[Tech: React, Node.js, AXIOS]\nSentiment-Gender-Bias Analysis – Empirical study on gender bias in LLMs, analyzing sentiment differences across gendered statements.\n[Tech: Python, NLTK, Transformers]\n\n\n\n\n\nProgramming Languages\n\n\n\nPython\n\n\nC++\n\n\nC\n\n\nSQL\n\n\nPHP\n\n\nJavaScript\n\n\nHTML / CSS\n\n\n\n\n\nMachine Learning & AI\n\n\n\nPyTorch, TensorFlow, Keras\n\n\nScikit-learn, NLTK\n\n\nHugging Face Transformers\n\n\nLLM Fine-tuning & RAG\n\n\nSelf-Supervised Learning\n\n\n\n\n\nTools & Platforms\n\n\n\nGit, Docker, Linux\n\n\nPower BI, Figma\n\n\nStreamlit, Colab\n\n\nCloud Platforms (AWS, GCP, Azure)\n\n\n\n\n\nDomains & Expertise\n\n\n\nLLMs & NLP\n\n\nGeospatial Analytics\n\n\nSystem Design & Architecture\n\n\nWeb Development\n\n\nDataset Curation & Benchmarking"
+    "text": "Projects\n\nLLM-Based Energy Monitoring System – Analytics pipeline to answer natural language energy queries with 90%+ accuracy. Benchmarked five LLMs & optimized prompts.\n[Tech: PyTorch, Hugging Face, Streamlit]\nSignature Verification System – Hybrid ML + OpenCV system achieving precision/recall of 0.92 for user signature verification.\n[Tech: Scikit-learn, OpenCV]\nCrime Monitoring System – REST-based application with API integration for managing and tracking crime reports.\n[Tech: React, Node.js, AXIOS]\nSentiment-Gender-Bias Analysis – Empirical study on gender bias in LLMs, analyzing sentiment differences across gendered statements.\n[Tech: Python, NLTK, Transformers]"
+  },
+  {
+    "objectID": "index.html#skills",
+    "href": "index.html#skills",
+    "title": "Jeet Parab",
+    "section": "Skills",
+    "text": "Skills\n\n\n\nProgramming Languages\n\n\n\nPython\n\n\nC++\n\n\nC\n\n\nSQL\n\n\nPHP\n\n\nJavaScript\n\n\nHTML / CSS\n\n\n\n\n\nMachine Learning & AI\n\n\n\nPyTorch, TensorFlow, Keras\n\n\nScikit-learn, NLTK\n\n\nHugging Face Transformers\n\n\nLLM Fine-tuning & RAG\n\n\nSelf-Supervised Learning\n\n\n\n\n\nTools & Platforms\n\n\n\nGit, Docker, Linux\n\n\nPower BI, Figma\n\n\nStreamlit, Colab\n\n\nCloud Platforms (AWS, GCP, Azure)\n\n\n\n\n\nDomains & Expertise\n\n\n\nLLMs & NLP\n\n\nGeospatial Analytics\n\n\nSystem Design & Architecture\n\n\nWeb Development\n\n\nDataset Curation & Benchmarking"
   }
 ]
