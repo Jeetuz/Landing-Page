@@ -22,15 +22,14 @@ website:
 format:
   html:
     theme:
-      light: [litera,styles.scss]
-      dark: [darkly,dark_styles.scss]
-    theme-toggle: true
+      light: [litera, styles.scss]
+      dark: [darkly, dark_styles.scss]
     toc: true
     highlight-style: a11y-dark
     mainfont: "Roboto"
     code-copy: true
     code-overflow: wrap
-    icons: true      
+    icons: true
 
 execute:
   freeze: auto
